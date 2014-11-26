@@ -17,4 +17,13 @@ The whole mission amazes me so much, and for sure the comet's name **67P**.
 ### Goal
 My goal is to create 67 Projects aka (67P) in 67 days by January 31. These projects difficulties are vary. Not all of them would be original. I'll try to mimic many famous ones such as Twitter, Pintrest ... etc but on small scale or sure. Others would much simpler. Doing so would encourage me to push to Github everyday.
 
+### Instruments 
+During this awfully exciting journey i'd relay most of time on few instruments that help out to get the job done and fast when it's applicable.
+
+* [Suspenders](https://github.com/thoughtbot/suspenders)
+	* Working with Rails
+
+* [Yoeman](http://yeoman.io/)  
+	* Working with Angular
+
 
