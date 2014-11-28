@@ -1,0 +1,25 @@
+<h1>All Messages</h1>
+
+
+<%= render partial: 'form' %>
+<br>
+<div id="posts">
+  <%= render partial: 'post' %>
+</div>
+
+<!-- <table>
+  <tr>
+    <th>Message</th>
+    <th>when</th>
+  </tr>
+
+  <%# @posts.each do |post| %>
+    <tr>
+      <td><%#= link_to post.message, post_path(post) %></td>
+      <td>Posted <%#= time_ago_in_words(post.created_at) %> ago</td>
+    </tr>
+  <%# end %>
+</table>
+ -->
+ <br>
+<%= link_to 'New post', new_post_path %>

@@ -1,0 +1,8 @@
+<%= simple_form_for :post, url: posts_path do |f| %>
+  <%= f.input :message, placeholder: "Hey hey, we'd like to say!",
+                        label: false,
+                        required: true,
+                        size: "60x10" %>
+  <%= f.button :submit, "Update" %>
+<% end %>
+

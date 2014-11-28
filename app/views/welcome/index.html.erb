@@ -1,3 +1,20 @@
-<h1>Welcome to 67P</h1>
 
-<p>The Home page of the 67 Projects aka 67P</p>
+<%#= link_to 'The Tweets', controller: 'posts' %>
+
+
+<div class="hero">
+  <div class="hero-inner">
+    <a href="" class="hero-logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png
+" alt="Logo Image"></a>
+    <div class="hero-copy">
+      <h1>Welcome to 67P</h1>
+      <p>A few reasons why this product is worth using, who it's for and why they need it.</p>
+    </div>
+    <!-- <button>Learn More</button> -->
+    <!-- <%#= button_to "The Tweets", controller: 'posts' %> -->
+    <%= link_to "Tweeets", posts_path, class:'footer-links' %>
+  </div>
+</div>
+
+
+
