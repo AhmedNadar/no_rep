@@ -28,6 +28,7 @@ group :development do
   gem "bundler-audit"
   gem "spring"
   gem "spring-commands-rspec"
+  gem "nifty-generators"
 end
 
 group :development, :test do
