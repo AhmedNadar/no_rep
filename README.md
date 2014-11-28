@@ -21,9 +21,9 @@ My goal is to create 67 Projects aka (67P) in 67 days by January 31. These proje
 During this awfully exciting journey i'd relay most of time on few instruments that help out to get the job done and fast when it's applicable.
 
 * [Suspenders](https://github.com/thoughtbot/suspenders)
-	* Working with Rails
+	* Work with Rails
 
 * [Yoeman](http://yeoman.io/)  
-	* Working with Angular
+	* Work with Angular
 
 
